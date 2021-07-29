@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  main {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center
+  }
+
+  .box {
+    width: 37.5rem;
+    height: 37.5rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .relogio {
+    width: 15.62rem;
+    height: 15.62rem;
+  }
